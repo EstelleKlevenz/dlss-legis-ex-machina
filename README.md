@@ -18,6 +18,8 @@ Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeo
 - brauchen keine Personeninfos, Parteiinfos über Manifest
 
 ### PREPROCESSING
+- alle exploren & testen preprocessing
+- besprechen: was nehmen wir rein, worauf achten wir?
 
 ### EXPLORATION
 
@@ -30,3 +32,8 @@ TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden
 - kompletter text
 - speaker ID
 - ID
+
+#### People
+Elena: MA 21.08., not available 06-08-08.
+Estelle: Urlaub ab 08.08.
+Jelena: Urlaub ab 08.08.
