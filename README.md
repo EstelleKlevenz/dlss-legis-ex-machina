@@ -26,9 +26,11 @@ Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeo
 
 ### GENERATOR
 TEAM: Elena & Pascal
+Validation: via Wahlomat Fragen
+und via Classifier -> Ella & Estelle sind schnell :)
 
 ### CLASSIFIFER
-TEAM: Jelena & Estelle
+TEAM: Ella & Estelle
 (TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden)
 Validation: test set of reel speeches
 
@@ -42,6 +44,6 @@ Validation: test set of reel speeches
 ## GENERAL 
 
 #### People
-Elena: MA 21.08., not available 06-08-08.
+Elena: MA 21.08., not available 06.08.-08.08.
 Estelle: Urlaub ab 08.08.
 Jelena: Urlaub ab 08.08.
