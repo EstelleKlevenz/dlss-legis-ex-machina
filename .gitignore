@@ -1,5 +1,7 @@
 # open discourse data
 data/speeches
+data/Members_of_Parliament_V1.csv
+data/Members_of_Parliament_V1.xlsx
 
 # old bundestag mine
 data/bundestag-mine_politicians.zip
