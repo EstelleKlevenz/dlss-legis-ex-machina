@@ -6,18 +6,27 @@ Political Turing Test: https://tu-dresden.de/gsw/phil/powi/joddid/shop/shop/im-l
 
 Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeordnete-zahl-der-reden-1.5310052
 
-SCHLACHTPLAN
+# SCHLACHTPLAN
 
-24.07.2025
+## 24.07.2025
 
-DATEN
+### DATEN
 - neu anfragen: alle speeches für 19 & 20. Bundestag, alle Politiker der 6 Parteien
 -  Daten über BundestagsMine (ganze speech im json)
-  - müssen gemappt werden: Name(&Metainfos) & speaker ID & Rede
-- Politiker: wie viel bietet Bundestagsmine an PeopleInfo?
+  - müssen gemappt werden: Name & speaker ID & Rede
+...brauchen wir ÜBERHAUPT Politikerdaten? wenn wir Partei predicten wollen? -> ja erreichen die Partei nur über die Politiker
+- brauchen keine Personeninfos, Parteiinfos über Manifest
 
-PREPROCESSING
+### PREPROCESSING
 
-GENERATIVE
+### EXPLORATION
 
-CLASSIFIFER
+### GENERATIVE
+
+### CLASSIFIFER
+TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden
+
+#### MINE
+- kompletter text
+- speaker ID
+- ID
