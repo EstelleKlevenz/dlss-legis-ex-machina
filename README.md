@@ -45,5 +45,9 @@ Validation: test set of reel speeches
 
 #### People
 Elena: MA 21.08., not available 06.08.-08.08.
+
+
 Estelle: Urlaub ab 08.08.
+
+
 Jelena: Urlaub ab 08.08.
