@@ -22,16 +22,24 @@ Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeo
 - besprechen: was nehmen wir rein, worauf achten wir?
 
 ### EXPLORATION
+- alle zusammen
 
-### GENERATIVE
+### GENERATOR
+TEAM: Elena & Pascal
 
 ### CLASSIFIFER
-TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden
+TEAM: Jelena & Estelle
+(TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden)
+Validation: test set of reel speeches
 
-#### MINE
-- kompletter text
-- speaker ID
-- ID
+
+### VALIDATION
+"How would you vote?"
+- Datensatz mit Themenfragen und Parteipositionen
+- via Wahlomat
+
+
+## GENERAL 
 
 #### People
 Elena: MA 21.08., not available 06-08-08.
