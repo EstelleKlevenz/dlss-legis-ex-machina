@@ -9,3 +9,6 @@ data/bundestag-mine_politicians
 
 # extracted zip file
 data/19th_20th_speeches_all
+
+# personal api keys
+manifesto_apikey.txt
