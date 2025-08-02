@@ -8,3 +8,4 @@ allresultsB.zip filter=lfs diff=lfs merge=lfs -text
 code/allresultsB.zip filter=lfs diff=lfs merge=lfs -text
 data/allresultsA.zip filter=lfs diff=lfs merge=lfs -text
 data/allresultsB.zip filter=lfs diff=lfs merge=lfs -text
+data/allresultsB/model.safetensors filter=lfs diff=lfs merge=lfs -text
