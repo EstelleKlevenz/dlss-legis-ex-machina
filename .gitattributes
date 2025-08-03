@@ -6,3 +6,4 @@ data/classifier_data_A.csv filter=lfs diff=lfs merge=lfs -text
 data/classifier_data_B.csv filter=lfs diff=lfs merge=lfs -text
 allresultsB.zip filter=lfs diff=lfs merge=lfs -text
 code/allresultsB.zip filter=lfs diff=lfs merge=lfs -text
+data/allresultsA.zip filter=lfs diff=lfs merge=lfs -text
