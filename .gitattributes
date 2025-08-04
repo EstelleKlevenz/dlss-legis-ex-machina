@@ -11,3 +11,4 @@ data/allresultsB.zip filter=lfs diff=lfs merge=lfs -text
 data/allresultsB/model.safetensors filter=lfs diff=lfs merge=lfs -text
 data/allresultsA/model.safetensors filter=lfs diff=lfs merge=lfs -text
 data/allresultsB_long/model.safetensors filter=lfs diff=lfs merge=lfs -text
+data/windowmodel/model.safetensors filter=lfs diff=lfs merge=lfs -text
