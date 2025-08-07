@@ -3,7 +3,7 @@
 ATTENTION: This is the OLD Version of the project. For the full and finished project visit: https://github.com/jelenameyer/dlss-project-lem/
 
 ***
-# welcome to the summer semester 2025 DEEEPLearning Project Github
+# Welcome to the So-Se-2025 DEEEPLearning Project Github
 
 Link to Overleaf Report: https://www.overleaf.com/project/68821dd5b49d5bec79a6e1f3
 
