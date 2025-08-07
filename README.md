@@ -36,7 +36,7 @@ TEAM: Elena & Pascal
 Validation: via Wahlomat Fragen
 und via Classifier -> Ella & Estelle sind schnell :)
 
-### CLASSIFIFER
+### CLASSIFIER
 TEAM: Ella & Estelle
 (TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden)
 Validation: test set of reel speeches
