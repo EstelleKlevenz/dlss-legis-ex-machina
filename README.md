@@ -47,14 +47,3 @@ Validation: test set of reel speeches
 - Datensatz mit Themenfragen und Parteipositionen
 - via Wahlomat
 
-
-## GENERAL 
-
-#### People
-Elena: MA 21.08., not available 06.08.-08.08.
-
-
-Estelle: Urlaub ab 08.08.
-
-
-Jelena: Urlaub ab 08.08.
