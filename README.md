@@ -1,6 +1,6 @@
 ***
 
-ATTENTION: This is the OLD Version of the project. For the full and finished project visit: https://github.com/jelenameyer/dlss-project-lem/
+**ATTENTION**: This is the OLD Version of the project. For the full and finished project visit: https://github.com/jelenameyer/dlss-project-lem/
 
 ***
 # Welcome to the So-Se-2025 DEEEPLearning Project Github
@@ -13,37 +13,31 @@ Political Turing Test: https://tu-dresden.de/gsw/phil/powi/joddid/shop/shop/im-l
 
 Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeordnete-zahl-der-reden-1.5310052
 
-# SCHLACHTPLAN
+# PLAN
 
-## 24.07.2025
-
-### DATEN
-- neu anfragen: alle speeches für 19 & 20. Bundestag, alle Politiker der 6 Parteien
--  Daten über BundestagsMine (ganze speech im json)
-  - müssen gemappt werden: Name & speaker ID & Rede
-...brauchen wir ÜBERHAUPT Politikerdaten? wenn wir Partei predicten wollen? -> ja erreichen die Partei nur über die Politiker
-- brauchen keine Personeninfos, Parteiinfos über Manifest
+### DATA
+-  all speeches 19th & 20th Bundestag, all politicians of the 6 parties
+-  data via BundestagsMine (whole speech as json)
+-  no need for extra politician info, party information via manifestos
 
 ### PREPROCESSING
-- alle exploren & testen preprocessing
-- besprechen: was nehmen wir rein, worauf achten wir?
+-  explore & preprocessing: all
+- discuss: what to include and consider?
 
 ### EXPLORATION
-- alle zusammen
+-  all
 
 ### GENERATOR
 TEAM: Elena & Pascal
 Validation: via Wahlomat Fragen
-und via Classifier -> Ella & Estelle sind schnell :)
+und via Classifier -> Ella & Estelle are fast :)
 
 ### CLASSIFIER
 TEAM: Ella & Estelle
-(TEST: Lernen von Manifest vs. Lernen von ehemaligen Reden)
 Validation: test set of reel speeches
 
-
 ### VALIDATION
-"How would you vote?"
-- Datensatz mit Themenfragen und Parteipositionen
-- via Wahlomat
+- Classifier
+- dataset w. topic questions and party positions (Wahl-O-Mat)
+- semantic analysis
 
