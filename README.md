@@ -4,7 +4,7 @@
 
 ***
 # Welcome to the So-Se-2025 DEEEP* Learning Project Github
-(by **D**ie **E**lla, **E**lena, **E**stelle, **P**ascal - Gruppe
+*(by **D**ie **E**lla, **E**lena, **E**stelle, **P**ascal - Gruppe)
 
 Link to Overleaf Report: https://www.overleaf.com/project/68821dd5b49d5bec79a6e1f3
 
