@@ -29,11 +29,13 @@ Politicians that talk a lot: https://www.sueddeutsche.de/politik/bundestag-abgeo
 
 ### GENERATOR
 TEAM: Elena & Pascal
+
 Validation: via Wahlomat Fragen
 und via Classifier -> Ella & Estelle are fast :)
 
 ### CLASSIFIER
 TEAM: Ella & Estelle
+
 Validation: test set of reel speeches
 
 ### VALIDATION
