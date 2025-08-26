@@ -3,7 +3,8 @@
 **ATTENTION**: This is the OLD Version of the project. For the full and finished project visit: https://github.com/jelenameyer/dlss-project-lem/
 
 ***
-# Welcome to the So-Se-2025 DEEEPLearning Project Github
+# Welcome to the So-Se-2025 DEEEP* Learning Project Github
+(by **D**ie **E**lla, **E**lena, **E**stelle, **P**ascal - Gruppe
 
 Link to Overleaf Report: https://www.overleaf.com/project/68821dd5b49d5bec79a6e1f3
 
